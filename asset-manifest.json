@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/new-york-times/static/css/main.5f361e03.chunk.css",
-    "main.js": "/new-york-times/static/js/main.1e300201.chunk.js",
-    "main.js.map": "/new-york-times/static/js/main.1e300201.chunk.js.map",
+    "main.css": "/new-york-times/static/css/main.12235fe4.chunk.css",
+    "main.js": "/new-york-times/static/js/main.20cc7c62.chunk.js",
+    "main.js.map": "/new-york-times/static/js/main.20cc7c62.chunk.js.map",
     "runtime-main.js": "/new-york-times/static/js/runtime-main.bfd5aca6.js",
     "runtime-main.js.map": "/new-york-times/static/js/runtime-main.bfd5aca6.js.map",
-    "static/js/2.51d6296d.chunk.js": "/new-york-times/static/js/2.51d6296d.chunk.js",
-    "static/js/2.51d6296d.chunk.js.map": "/new-york-times/static/js/2.51d6296d.chunk.js.map",
+    "static/js/2.22eb56e3.chunk.js": "/new-york-times/static/js/2.22eb56e3.chunk.js",
+    "static/js/2.22eb56e3.chunk.js.map": "/new-york-times/static/js/2.22eb56e3.chunk.js.map",
     "index.html": "/new-york-times/index.html",
-    "precache-manifest.40d712c8b85f3b3f03b30d299518d434.js": "/new-york-times/precache-manifest.40d712c8b85f3b3f03b30d299518d434.js",
+    "precache-manifest.669d06a20177ad6cd8b41cdb0b68ad3a.js": "/new-york-times/precache-manifest.669d06a20177ad6cd8b41cdb0b68ad3a.js",
     "service-worker.js": "/new-york-times/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/new-york-times/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.51d6296d.chunk.js.LICENSE.txt": "/new-york-times/static/js/2.51d6296d.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/new-york-times/static/media/logo.5d5d9eef.svg"
+    "static/css/main.12235fe4.chunk.css.map": "/new-york-times/static/css/main.12235fe4.chunk.css.map",
+    "static/js/2.22eb56e3.chunk.js.LICENSE.txt": "/new-york-times/static/js/2.22eb56e3.chunk.js.LICENSE.txt",
+    "static/media/boxes.png": "/new-york-times/static/media/boxes.8a93ae23.png",
+    "static/media/logo.png": "/new-york-times/static/media/logo.ea6cde29.png",
+    "static/media/menu1.png": "/new-york-times/static/media/menu1.79b18a5d.png",
+    "static/media/photo1.webp": "/new-york-times/static/media/photo1.0845db26.webp",
+    "static/media/photo2.webp": "/new-york-times/static/media/photo2.fd3ce065.webp",
+    "static/media/search.svg": "/new-york-times/static/media/search.a567c220.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bfd5aca6.js",
-    "static/js/2.51d6296d.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.1e300201.chunk.js"
+    "static/js/2.22eb56e3.chunk.js",
+    "static/css/main.12235fe4.chunk.css",
+    "static/js/main.20cc7c62.chunk.js"
   ]
 }
